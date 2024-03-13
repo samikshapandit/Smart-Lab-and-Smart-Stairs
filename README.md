@@ -1,14 +1,5 @@
 # Smart Lab and Smart Stairs 
 
-# Table of Contents
-Introduction
-Hardware Components
-Installation
-Usage
-Features
-Mobile App
-Contributing
-License
 
 ### 
 ---
